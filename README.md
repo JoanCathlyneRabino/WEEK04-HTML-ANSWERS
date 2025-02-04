@@ -1,1 +1,2 @@
 # WEEK04-HTML-ANSWERS
+This repository contains the HTML code and answers for Week 04 of our HTML course. The content showcases favorite films, documentaries, and books, along with insights and additional activities. The goal is to provide a well-structured and informative webpage that highlights the our personal preferences.
